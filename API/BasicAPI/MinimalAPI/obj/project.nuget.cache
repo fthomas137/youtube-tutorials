@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "elaPIDGf3208Yx8q0ATMsfa2r5FdqhTuBxWFY5e6hdvl/Mdqf643vIdcY+IBMgYLqjIqSoUhtHS0mAqC1dloUw==",
+  "dgSpecHash": "SckqIm2Jz4ZZjooy4CJy6bDdNOAlADkvkPjkcKhlvbAInS0mKrDNAncFLMOvWGi1ggHW2raLZO/zcrhyl8X5vA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Frank\\source\\repos\\youtubeTutorials\\API\\BasicAPI\\BasicAPI\\BasicAPI.csproj",
+  "projectFilePath": "C:\\Users\\Frank\\source\\repos\\youtubeTutorials\\API\\BasicAPI\\MinimalAPI\\MinimalAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Frank\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Frank\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

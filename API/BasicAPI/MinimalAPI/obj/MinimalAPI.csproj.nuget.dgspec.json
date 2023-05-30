@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Frank\\source\\repos\\youtubeTutorials\\API\\BasicAPI\\BasicAPI\\BasicAPI.csproj": {}
+    "C:\\Users\\Frank\\source\\repos\\youtubeTutorials\\API\\BasicAPI\\MinimalAPI\\MinimalAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Frank\\source\\repos\\youtubeTutorials\\API\\BasicAPI\\BasicAPI\\BasicAPI.csproj": {
+    "C:\\Users\\Frank\\source\\repos\\youtubeTutorials\\API\\BasicAPI\\MinimalAPI\\MinimalAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Frank\\source\\repos\\youtubeTutorials\\API\\BasicAPI\\BasicAPI\\BasicAPI.csproj",
-        "projectName": "BasicAPI",
-        "projectPath": "C:\\Users\\Frank\\source\\repos\\youtubeTutorials\\API\\BasicAPI\\BasicAPI\\BasicAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Frank\\source\\repos\\youtubeTutorials\\API\\BasicAPI\\MinimalAPI\\MinimalAPI.csproj",
+        "projectName": "MinimalAPI",
+        "projectPath": "C:\\Users\\Frank\\source\\repos\\youtubeTutorials\\API\\BasicAPI\\MinimalAPI\\MinimalAPI.csproj",
         "packagesPath": "C:\\Users\\Frank\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Frank\\source\\repos\\youtubeTutorials\\API\\BasicAPI\\BasicAPI\\obj\\",
+        "outputPath": "C:\\Users\\Frank\\source\\repos\\youtubeTutorials\\API\\BasicAPI\\MinimalAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Frank\\AppData\\Roaming\\NuGet\\NuGet.Config",
